@@ -1,0 +1,18 @@
+body {
+    background: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a:hover {
+    color: red; transition: color 0.3s ease;
+}
+table:hover {
+    transform: scale(1.20); transition: transform 0.3s ease;
+}
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+table {
+    background-color: rgba(255, 255, 255, 0.795);
+}
